@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=WBTC
+Comment=WBTC P2P Cryptocurrency
+Exec=WBTC-qt %u
+Terminal=false
+Type=Application
+Icon=WBTC128
+MimeType=x-scheme-handler/WBTC;
+Categories=Office;Finance;
+Name[en_US]=WBTC-qt.desktop

@@ -1,0 +1,26 @@
+# /etc/conf.d/WBTCd: config file for /etc/init.d/WBTCd
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/WBTC/WBTC.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/WBTCd"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/WBTCd.pid"
+
+# Where to write WBTCd data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/WBTCd"
+
+# User and group to own WBTCd process
+#BITCOIND_USER="WBTC"
+#BITCOIND_GROUP="WBTC"
+
+# Path to WBTCd executable
+#BITCOIND_BIN="/usr/bin/WBTCd"
+
+# Nice value to run WBTCd under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""

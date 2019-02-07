@@ -1,0 +1,11 @@
+[Protocol]
+exec=WBTC-qt '%u'
+protocol=WBTC
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false
