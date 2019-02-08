@@ -6,7 +6,7 @@ WBTC (WBTC) is a sustainable cryptocurrency modeled after Satoshi Nakamoto’s v
 - Fast transactions featuring guaranteed zero confirmation transactions, we call it _SwiftTX_.
 - Decentralized blockchain voting providing for consensus based advancement of the current Masternode
   technology used to secure the network and provide the above features, each Masternode is secured
-  with a collateral of 1000 WBTC.
+  with a collateral of 3000 WBTC.
 
 
 ## Links
