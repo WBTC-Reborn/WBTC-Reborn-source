@@ -10,6 +10,6 @@ WBTC (WBTC) is a sustainable cryptocurrency modeled after Satoshi Nakamoto’s v
 
 
 ## Links
-- [Website](wbtcreborn.pw)
-- [Explorer] wwww.explorer.wbtcreborn.pw:3001
-- [Discord](https://discord.gg/DQCrXrU)
+- Website https://wbtcreborn.pw
+- Explorer http://explorer.wbtcreborn.pw:3001/
+- Discord https://discord.gg/DQCrXrU
